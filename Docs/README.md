@@ -1,12 +1,28 @@
-# Documentation
+Documentation
 
-Folder ini berisi semua dokumentasi resmi untuk proyek **Cyro Layer 1**.  
-Dokumen di dalamnya akan mencakup:
+This folder contains all official documents for CryoLayer.
 
-- **Blueprint & Arsitektur**: Desain teknis inti, termasuk mekanisme konsensus Cyro.
-- **Whitepaper**: Visi, misi, dan detail teknis protokol.
-- **Prototype & MVP Notes**: Catatan dan panduan untuk versi prototipe dan MVP.
-- **Roadmap & Milestones**: Tahapan pengembangan dari awal hingga mainnet.
-- **Tutorials & Guides**: Panduan instalasi, penggunaan, dan integrasi.
+Purpose
 
-Dokumentasi ini akan diperbarui secara berkala sesuai progres pengembangan.
+To provide a complete reference on CryoLayer's design, architecture, and roadmap for developers, investors, and partners.
+
+Key Contents
+
+Whitepaper: Vision and mission of CryoLayer
+
+Blueprint: Technical design and consensus mechanism
+
+Architecture: System diagrams and technical specifications
+
+Roadmap: Development phases and milestones
+
+
+Document Structure
+
+whitepaper.md → Detailed protocol explanation
+
+blueprint.md → Design principles & technical specs
+
+architecture.md → Architecture diagrams & details
+
+roadmap.md → Development plan & milestones
