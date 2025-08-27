@@ -1,28 +1,22 @@
-Documentation
+# Documentation
 
-This folder contains all official documents for CryoLayer.
+This folder contains all official documents for **CryoLayer**.
 
-Purpose
+## Purpose
+To provide a complete reference for CryoLayer's design, architecture, and development roadmap — intended for developers, partners, and potential investors.
 
-To provide a complete reference on CryoLayer's design, architecture, and roadmap for developers, investors, and partners.
+## Main Contents
+- **Whitepaper**: Vision and mission of CryoLayer  
+- **Blueprint**: Technical design principles & consensus mechanisms  
+- **Architecture**: System diagrams & technical specifications  
+- **Roadmap**: Development milestones & release phases  
 
-Key Contents
+## Document Structure
+- `whitepaper.md` → Detailed explanation of the protocol  
+- `blueprint.md` → Design principles & technical specifications  
+- `architecture.md` → System diagrams & infrastructure details  
+- `roadmap.md` → Phased development plan & goals  
 
-Whitepaper: Vision and mission of CryoLayer
+---
 
-Blueprint: Technical design and consensus mechanism
-
-Architecture: System diagrams and technical specifications
-
-Roadmap: Development phases and milestones
-
-
-Document Structure
-
-whitepaper.md → Detailed protocol explanation
-
-blueprint.md → Design principles & technical specs
-
-architecture.md → Architecture diagrams & details
-
-roadmap.md → Development plan & milestones
+*This documentation will be continuously updated as the project evolves.*
